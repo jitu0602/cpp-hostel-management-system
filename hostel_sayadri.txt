@@ -1,0 +1,7 @@
+1 3432 piyush 1
+2 334 jaiswal 2
+3 323 udiya 3 
+4 44 usid 4
+5 44 kjfkd 5
+6 789 jitu 6
+7 12 arshad 7
